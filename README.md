@@ -1,5 +1,3 @@
-# Agentic-Financial-Steward
-
 🛡️ Agentic Financial Steward
 Automated Invoice Audit & Reconciliation Terminal
 
@@ -60,7 +58,3 @@ Invoice 1 (Clean): Verified exact-match reconciliation and variance logic.
 Invoice 2 (Messy OCR): Tested the resilience of the Alias Mapping and Data Cleaning layers.
 
 Invoice 3 (New Vendor/Bundles): Demonstrated "Discovery" logic for registering unseen entities in the Master Excel.
-
-Final Note for the Team
-
-As a student of Data Science and Economics, my focus was on building a system that doesn't just "read" data, but "reconciles" it with economic reality. The challenges of working with local SLMs led to the development of a highly defensive and resilient parsing architecture—an essential trait for any production-grade agentic system.
